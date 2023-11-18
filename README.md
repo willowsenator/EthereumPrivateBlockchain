@@ -1,1 +1,1 @@
-# EthereumPrivateNetwork
+# EthereumPrivateBlockchain
