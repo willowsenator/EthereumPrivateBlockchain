@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Custom blockchain
+custom_blockchain/node01
+custom_blockchain/node02
+custom_blockchain/node03
